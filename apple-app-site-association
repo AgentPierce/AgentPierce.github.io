@@ -1,20 +1,4 @@
 {
-   "applinks": {
-       "apps": [],
-       "details": [
-           {
-               "appID": "8KP6WBXXFV.com.digitalid.ios",
-               "paths": ["/invite/*", "/deeplinks/*", "/i"]
-           },
-           {
-               "appID": "8KP6WBXXFV.com.digitalid.ios.develop",
-               "paths": ["/invite/*", "/deeplinks/*", "/i"]
-           }
-       ]
-   },
-   "appclips": {
-      "apps": ["8KP6WBXXFV.com.digitalid.ios.Clip"]
-   },
    "webcredentials": {
       "apps": ["8KP6WBXXFV.com.digitalid.ios.develop", "ZC8SX4U5VH.com.yabbystudios.PasskeyDemo"]
    }
