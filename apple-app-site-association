@@ -13,6 +13,9 @@
        ]
    },
    "appclips": {
-        "apps": ["8KP6WBXXFV.com.digitalid.ios.Clip"]
-    }
+      "apps": ["8KP6WBXXFV.com.digitalid.ios.Clip"]
+   },
+   "webcredentials": {
+      "apps": ["8KP6WBXXFV.com.digitalid.ios.develop"]
+   },
 }
